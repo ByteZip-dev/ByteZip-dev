@@ -44,32 +44,23 @@ Right now I'm building **Byte Check**, a pre-scan that runs before an Ocean Scan
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ByteZip-dev&show_icons=true&count_private=true&include_all_commits=true&title_color=00c6ff&icon_color=0072ff&text_color=e6edf3&bg_color=0d1117&hide_border=true&border_radius=10" height="180" />
+<img src="https://github-stats-extended.vercel.app/api?username=ByteZip-dev&show_icons=true&count_private=true&include_all_commits=true&title_color=00c6ff&icon_color=0072ff&text_color=e6edf3&bg_color=0d1117&hide_border=true&border_radius=10" height="180" />
 <img src="https://streak-stats.demolab.com?user=ByteZip-dev&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteZip-dev&layout=donut&title_color=00c6ff&bg_color=0d1117&text_color=e6edf3&hide_border=true&border_radius=10" height="180" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ByteZip-dev&layout=donut&title_color=00c6ff&bg_color=0d1117&text_color=e6edf3&hide_border=true&border_radius=10" height="180" />
 
 </div>
 
 ### trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ByteZip-dev&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 *empty for now. the real trophy is the look on someone's face when I say "found it".*
 
-### activity
+### recent activity
 
-<div align="center">
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
-<a href="https://github.com/ByteZip-dev">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByteZip-dev&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
-</a>
-
-</div>
+*updated by a bot every few hours. no, the bot is not cheating.*
 
 ### the snake
 
