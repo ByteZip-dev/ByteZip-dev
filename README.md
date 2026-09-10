@@ -18,28 +18,21 @@
 
 </div>
 
-<br/>
+---
 
-### 🕵️ Who am I?
+### about me
 
-> Minecraft **ScreenShare reviewer** — I dig through every file, mod, and folder to catch cheaters hiding in plain sight.
+Minecraft sharescreener. The guy who makes you open your files folder, finds the ghost client, and asks why the "texture pack" has a cheat config. I've sat through enough screen shares to know exactly where cheaters hide — spoiler: it's never where they say it is.
 
-- 🔍 **ScreenShare & Anti-Cheat** — hunting bypasses, fake mods, and ghost clients
-- ⚡ **Building [Byte Check](https://github.com/ByteZip-dev/Byte-Check)** — a pre-scan tool that detects and disables bypasses *before* an Ocean Scan
-- 🧱 Java · Kotlin · C++ · C# · JavaScript · TypeScript
-- ☕ Fueled by coffee, block games, and byte-level forensics
+Right now I'm building **Byte Check**, a pre-scan that runs before an Ocean Scan. Its whole job is: find the bypass, disable it, and make sure the scan you're about to run actually works.
 
-<br/>
-
-### 🚀 Featured Project
+### the one that matters
 
 <a href="https://github.com/ByteZip-dev/Byte-Check">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteZip-dev&repo=Byte-Check&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
-<br/>
-
-### 📊 GitHub Stats
+### stats
 
 <div align="center">
 
@@ -50,9 +43,7 @@
 
 </div>
 
-<br/>
-
-### 🏆 Trophies
+### trophies
 
 <div align="center">
 
@@ -60,9 +51,9 @@
 
 </div>
 
-<br/>
+*empty for now. the real trophy is the look on someone's face when I say "found it".*
 
-### 📈 Activity
+### activity
 
 <div align="center">
 
@@ -72,9 +63,7 @@
 
 </div>
 
-<br/>
-
-### 🐍 Watch the snake eat my contributions
+### the snake
 
 <div align="center">
 
@@ -82,12 +71,14 @@
 
 </div>
 
-<br/>
+*right now it's eating crumbs. go feed it.*
+
+---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" width="100%" />
 
-<sub>Screen shares are just *shares* — I'm the one who caught you 🕵️</sub>
+<sub>no, that wasn't a texture pack.</sub>
 
 </div>
