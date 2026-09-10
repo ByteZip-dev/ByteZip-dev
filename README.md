@@ -28,9 +28,17 @@ Right now I'm building **Byte Check**, a pre-scan that runs before an Ocean Scan
 
 ### the one that matters
 
-<a href="https://github.com/ByteZip-dev/Byte-Check">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteZip-dev&repo=Byte-Check&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
+<div align="center">
+  <a href="https://github.com/ByteZip-dev/Byte-Check" style="text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; gap: 14px; background: #0d1117; border: 1px solid #21262d; border-radius: 12px; padding: 14px 24px; max-width: 520px;">
+      <div style="text-align: left;">
+        <div style="color: #00c6ff; font-weight: 700; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Byte-Check</div>
+        <div style="color: #8b949e; font-size: 13px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin-top: 2px;">pre-scan for Ocean Scan — finds the bypass, disables it, then the real scan runs clean</div>
+      </div>
+      <span style="color: #00c6ff; font-size: 18px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">→</span>
+    </div>
+  </a>
+</div>
 
 ### stats
 
