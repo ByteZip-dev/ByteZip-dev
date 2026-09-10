@@ -15,6 +15,9 @@
 [![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=00C6FF)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00C6FF)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00C6FF)]()
+[![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=00C6FF)]()
+[![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00C6FF)]()
+[![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css&logoColor=00C6FF)]()
 
 </div>
 
