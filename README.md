@@ -63,8 +63,8 @@ Right now I'm building **Byte Check**, a pre-scan that runs before an Ocean Scan
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [ByteZip-dev/Byte-Check](https://github.com/ByteZip-dev/Byte-Check)<br>
-2. ⬆️ Pushed undefined commit(s) to [ByteZip-dev/ByteZip-dev](https://github.com/ByteZip-dev/ByteZip-dev)<br>
-3. ⬆️ Pushed undefined commit(s) to [ByteZip-dev/Byte-Check](https://github.com/ByteZip-dev/Byte-Check)<br>
+2. ⬆️ Pushed undefined commit(s) to [ByteZip-dev/Byte-Check](https://github.com/ByteZip-dev/Byte-Check)<br>
+3. ⬆️ Pushed undefined commit(s) to [ByteZip-dev/ByteZip-dev](https://github.com/ByteZip-dev/ByteZip-dev)<br>
 4. ⬆️ Pushed undefined commit(s) to [ByteZip-dev/Byte-Check](https://github.com/ByteZip-dev/Byte-Check)<br>
 5. ⬆️ Pushed undefined commit(s) to [ByteZip-dev/Byte-Check](https://github.com/ByteZip-dev/Byte-Check)<br>
 <!--RECENT_ACTIVITY:end-->
