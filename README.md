@@ -18,6 +18,7 @@
 [![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=00C6FF)]()
 [![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00C6FF)]()
 [![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css&logoColor=00C6FF)]()
+[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00C6FF)]()
 
 </div>
 
